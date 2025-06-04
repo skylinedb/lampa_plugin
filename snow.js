@@ -1,4 +1,4 @@
-(function() {
+(function() {1
 	'use strict';
 
          Lampa.Platform.tv();
